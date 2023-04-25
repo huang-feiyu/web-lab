@@ -10,13 +10,18 @@ very important, but I will try to do that.
 ## Skills
 
 * [x] Git/GitHub
-* [x] HTML/CSS
 * [x] Design, UI/UX, [Wireframe](https://balsamiq.com/learn/articles/what-are-wireframes/)
+* [x] Prototyping in [Figma](https://www.figma.com/)
+* [x] APIs, Promises
+* [x] HTML/CSS
 * [x] Javascript
+* [x] React: Components, Props, States
+* [ ] React: Hooks
 
 ## Milestones
 
 [milestones](https://weblab.mit.edu/about/#milestones)
 
 * [ ] Milestone 0: Idea Brainstorming (that abides by [rules](https://weblab.mit.edu/about/#rules))
+* [ ] Milestone 1: Project Pitches
 
