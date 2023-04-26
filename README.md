@@ -14,14 +14,16 @@ very important, but I will try to do that.
 * [x] Prototyping in [Figma](https://www.figma.com/)
 * [x] APIs, Promises
 * [x] HTML/CSS
-* [x] Javascript
+* [x] Basic Javascript
+* [ ] Async Javascript
 * [x] React: Components, Props, States
-* [ ] React: Hooks
+* [x] React: Hooks, GET/POST
+* [ ] Node.js
 
 ## Milestones
 
 [milestones](https://weblab.mit.edu/about/#milestones)
 
-* [ ] Milestone 0: Idea Brainstorming (that abides by [rules](https://weblab.mit.edu/about/#rules))
-* [ ] Milestone 1: Project Pitches
+* [x] Milestone 0: Idea Brainstorming (that abides by [rules](https://weblab.mit.edu/about/#rules)) => blog
+* [ ] Milestone 1: Project Pitches (Slides and Wireframe are quired)
 
