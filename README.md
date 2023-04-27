@@ -24,6 +24,9 @@ very important, but I will try to do that.
 
 [milestones](https://weblab.mit.edu/about/#milestones)
 
-* [x] Milestone 0: Idea Brainstorming (that abides by [rules](https://weblab.mit.edu/about/#rules)) => blog & bank
-* [ ] Milestone 1: Project Pitches (Slides and Wireframe are quired)
+NOTE: For now, I haven't started my blog building that I would start after
+finishing [bank system](https://github.com/ds-lab2/frontend).
+
+* [x] Milestone 0: Idea Brainstorming (that abides by [rules](https://weblab.mit.edu/about/#rules)) => blog & [bank](https://github.com/ds-lab2/bank)
+* [x] Milestone 1: Project Pitches (Slides and Wireframe are required)
 
