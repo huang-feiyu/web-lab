@@ -12,10 +12,10 @@ very important, but I will try to do that.
 * [x] Git/GitHub
 * [x] Design, UI/UX, [Wireframe](https://balsamiq.com/learn/articles/what-are-wireframes/)
 * [x] Prototyping in [Figma](https://www.figma.com/)
-* [x] APIs, Promises
 * [x] HTML/CSS
-* [x] Basic Javascript
-* [ ] Async Javascript
+* [x] Javascript: Basics
+* [x] Javascript: API/Promises
+* [x] Javascript: Async/Await
 * [x] React: Components, Props, States
 * [x] React: Hooks, GET/POST
 * [ ] Node.js
@@ -24,6 +24,6 @@ very important, but I will try to do that.
 
 [milestones](https://weblab.mit.edu/about/#milestones)
 
-* [x] Milestone 0: Idea Brainstorming (that abides by [rules](https://weblab.mit.edu/about/#rules)) => blog
+* [x] Milestone 0: Idea Brainstorming (that abides by [rules](https://weblab.mit.edu/about/#rules)) => blog & bank
 * [ ] Milestone 1: Project Pitches (Slides and Wireframe are quired)
 
