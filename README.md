@@ -1,4 +1,4 @@
-# Web.Lab
+# Web.Lab (**deprecated**)
 
 > MIT 6.148: [web.lab](https://weblab.mit.edu/) teaches fundamentals of web
 > development, both frontend and backend. (Somewhat easy to learn)
